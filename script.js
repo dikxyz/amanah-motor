@@ -97,14 +97,14 @@ if (inquiryForm) {
     const whatsappNumber = "6281213345417";
 
     const whatsappMessage =
-`Hello PT Duta Kencana Sejahtera,
+`Bengkel Amanah,
 
-I would like to make a business inquiry.
+Saya Mau Service Motor.
 
 Name: ${name}
-Company: ${company || "-"}
+Jenis Motor: ${company || "-"}
 
-Project / Inquiry:
+Service:
 ${message}
 
 Thank you.`;
