@@ -94,7 +94,7 @@ if (inquiryForm) {
     const company = document.getElementById("inquiry-company").value.trim();
     const message = document.getElementById("inquiry-message").value.trim();
 
-    const whatsappNumber = "62816262657";
+    const whatsappNumber = "6281213345417";
 
     const whatsappMessage =
 `Hello PT Duta Kencana Sejahtera,
